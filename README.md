@@ -31,10 +31,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+Esse projeto é o inicio de toda uma carreira, depois de muito tempo vagando e me perguntando o 
+que eu poderia fazer para me realizar profissionalmente e dentro da minha vida pessoal, nesses
+28 dias de projeto dei meu pontapé inicial dentro da área da programação.
 
 ## Licença
 
 Esse projeto está sob a licença MIT.
 
-Feito com ajuda da Rocketseat!
+<h2> Objetivos futuros </h2>
+Vou fazer meu roadmap e aprimorar minhas habilidades dentro da programação, buscando qual área me aprimorar dentro de tantas campos nesse vasto mundo tecnológico.
