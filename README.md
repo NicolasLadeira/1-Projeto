@@ -18,7 +18,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
+  <img alt="projeto DevLinks" src=".github/preview2.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Esse projeto é o inicio de toda uma carreira, depois de muito tempo vagando e me perguntando o 
+Esse projeto é o inicio de toda uma carreira, depois de muito tempo vagando e me perguntando o
 que eu poderia fazer para me realizar profissionalmente e dentro da minha vida pessoal, nesses
 28 dias de projeto dei meu pontapé inicial dentro da área da programação.
 
