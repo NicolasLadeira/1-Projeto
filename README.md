@@ -1,8 +1,7 @@
-<h1 align="center"> DevLinks </h1>
+<h1 align="center"> NicolasLinks </h1>
 
 <p align="center">
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
-<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito" target= "_blank" >Estude esse projeto em formato de vídeo clicando aqui.</a>
 </p>
 
 <p align="center">
@@ -21,7 +20,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
   <img alt="projeto DevLinks" src=".github/preview2.png" width="100%">
 </p>
 
-## 🚀 Tecnologias
+##  Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -29,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 - Git e Github
 
-## 💻 Projeto
+##  Projeto
 
 Esse projeto é o inicio de toda uma carreira, depois de muito tempo vagando e me perguntando o
 que eu poderia fazer para me realizar profissionalmente e dentro da minha vida pessoal, nesses
