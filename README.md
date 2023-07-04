@@ -1,13 +1,7 @@
 <h1 align="center"> NicolasLinks </h1>
 
 <p align="center">
-Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
-</p>
-
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+Construí esse projeto com ajuda da <a href= "https://rocketseat.com.br" target= "_blank"> Rocketseat </a> .
 </p>
 
 <p align="center">
@@ -20,7 +14,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
   <img alt="projeto DevLinks" src=".github/preview2.png" width="100%">
 </p>
 
-##  Tecnologias
+## Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -28,7 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 - Git e Github
 
-##  Projeto
+## Projeto
 
 Esse projeto é o inicio de toda uma carreira, depois de muito tempo vagando e me perguntando o
 que eu poderia fazer para me realizar profissionalmente e dentro da minha vida pessoal, nesses
